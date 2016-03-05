@@ -1,0 +1,28 @@
+name: a.fish experience
+favicon: null
+layout_spectrum: 0.49688204377889633
+typography_spectrum: 0.550654494902119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.054902242962270975
+  lightness: 0.3617663935292512
+  saturation: 0.37120364932343364
+  rhythmicContrast: 0.048729408299550414
+purpose: []
