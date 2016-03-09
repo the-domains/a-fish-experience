@@ -1,7 +1,7 @@
 name: a.fish experience
 favicon: null
-layout_spectrum: 0.49688204377889633
-typography_spectrum: 0.550654494902119
+layout_spectrum: 1
+typography_spectrum: 0.07127
 cta:
   domain: null
   bucket: null
