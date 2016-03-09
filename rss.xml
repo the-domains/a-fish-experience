@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[a.fish experience]]></title>
         <description><![CDATA[a.fish experience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-fish-experience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 17:07:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 02:03:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-fish-experience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<article><h1>Bio</h1><p>I am a User Experience Designer, a teacher, and also an X-Man (no kidding).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d489e46c659893db07817a7ead11776d10e95240.jpg"></article>]]></description>
+            <link>https://thegrid.ai/a-fish-experience/bio/index.html</link>
+            <guid isPermaLink="false">e4b68249-a0c4-4184-8876-de046b7695a7</guid>
+            <pubDate>Wed, 09 Mar 2016 02:02:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>General Assembly</p>]]></description>
-            <link>undefinedd21f5253-ffcd-496b-9b6e-51d953ab1df9/index.html</link>
+            <link>https://thegrid.ai/a-fish-experience/d21f5253-ffcd-496b-9b6e-51d953ab1df9/index.html</link>
             <guid isPermaLink="false">d21f5253-ffcd-496b-9b6e-51d953ab1df9</guid>
             <pubDate>Sat, 05 Mar 2016 17:07:22 GMT</pubDate>
         </item>
