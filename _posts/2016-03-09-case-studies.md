@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T03:15:57.888Z'
-dateModified: '2016-03-09T03:15:56.075Z'
+datePublished: '2016-03-09T03:30:07.927Z'
+dateModified: '2016-03-09T03:18:44.690Z'
 title: Case Studies
 author: []
+sourcePath: _posts/2016-03-09-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-case-studies.md
-published: true
 url: case-studies/index.html
 _type: Article
 
