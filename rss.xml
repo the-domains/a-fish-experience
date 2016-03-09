@@ -4,11 +4,18 @@
         <description><![CDATA[UX + IA Portfolio of Anneliese Marek Fish]]></description>
         <link>https://thegrid.ai/a-fish-experience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 03:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 03:17:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/a-fish-experience/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Wireframes]]></title>
+            <description><![CDATA[<h1>Wireframes</h1>]]></description>
+            <link>https://thegrid.ai/a-fish-experience/wireframes/index.html</link>
+            <guid isPermaLink="false">33cffdf5-4cc7-49f4-b0e4-6cd4da6871db</guid>
+            <pubDate>Wed, 09 Mar 2016 03:16:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Case Studies]]></title>
-            <description><![CDATA[<h1>Case Studies</h1>]]></description>
+            <description><![CDATA[<article><h1>Case Studies</h1><p>First Aide</p></article>]]></description>
             <link>https://thegrid.ai/a-fish-experience/case-studies/index.html</link>
             <guid isPermaLink="false">679392fe-031f-41c4-a7ca-9ca5f34dcd4d</guid>
             <pubDate>Wed, 09 Mar 2016 03:15:57 GMT</pubDate>
