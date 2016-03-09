@@ -1,4 +1,4 @@
-name: a.fish experience
+name: afish-ux
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.07127
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.75
   lightness: 0.75
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
